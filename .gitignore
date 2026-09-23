@@ -1,0 +1,9 @@
+build/
+bin/
+lib/
+html/
+latex/
+*.bak
+*.o
+*.a
+*.so
