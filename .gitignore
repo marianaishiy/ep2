@@ -7,3 +7,5 @@ latex/
 *.o
 *.a
 *.so
+test_ranking
+*.o
